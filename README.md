@@ -1,1 +1,1 @@
-# WiproPRP
+# Codility
